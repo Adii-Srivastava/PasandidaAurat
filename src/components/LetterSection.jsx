@@ -54,7 +54,7 @@ export default function LetterSection({ onNext }) {
             <p>
               I hope today feels soft. I hope you feel a little bit of how much
               you&apos;re loved. and on the days I forget to say it out loud —
-              please remember, I still choose you. every single time.
+              please remember, I choose you. every single time.
             </p>
           </div>
 
