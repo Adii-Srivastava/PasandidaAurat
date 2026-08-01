@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Hero from "./components/Hero";
-import SongSection from "./components/SongSection";
+import SongSection from "./components/songSection";
 import GallerySection from "./components/GallerySection";
 import LetterSection from "./components/LetterSection";
 import SecretSection from "./components/SecretSection";
