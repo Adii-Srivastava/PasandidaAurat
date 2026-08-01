@@ -29,7 +29,7 @@ export default function Hero({ onNext }) {
         <div className="badge rounded-full border border-pink-200 bg-white/80 px-4 py-2 shadow-[0_8px_20px_rgba(161,102,130,0.13)] backdrop-blur-md sm:px-5">
           <p className="text-[10px] font-semibold uppercase tracking-[2px] text-[#a76a83] sm:text-[11px] sm:tracking-[3px]">💗 Happy Girlfriend&apos;s Day</p>
         </div>
-        <h1 className="title heading-font mt-6 text-[48px] font-bold leading-[0.9] tracking-[-0.04em] text-[#28151f] sm:text-[72px]">hi, my love <span className="text-pink-400">♡</span></h1>
+        <h1 className="title heading-font mt-6 text-[48px] font-bold leading-[0.9] tracking-[-0.04em] text-[#28151f] sm:text-[72px]">hiiieee, my Pasandida Aurat <span className="text-pink-400">♡</span></h1>
         <p className="subtitle script-font mt-4 text-[27px] leading-[1.05] text-[#73616c] sm:mt-5 sm:text-[38px]">I made this so you&apos;ll always remember —<br />you are deeply loved.</p>
         <img src={letter} alt="A love letter" className="letter mt-4 w-[190px] select-none drop-shadow-[0_20px_40px_rgba(255,132,180,0.30)] sm:mt-5 sm:w-[280px]" />
         <button type="button" onClick={onNext} className="mt-4 rounded-full bg-[linear-gradient(90deg,#f28aae_0%,#ec779d_100%)] px-8 py-3 text-[12px] font-semibold text-white shadow-[0_10px_22px_rgba(228,108,153,0.28)] transition hover:scale-105 active:scale-95 sm:mt-5">Click Here 💌</button>
