@@ -27,7 +27,7 @@ export default function Hero({ onNext }) {
 
       <div className="relative z-10 flex w-full max-w-3xl flex-col items-center text-center">
         <div className="badge rounded-full border border-pink-200 bg-white/80 px-4 py-2 shadow-[0_8px_20px_rgba(161,102,130,0.13)] backdrop-blur-md sm:px-5">
-          <p className="text-[10px] font-semibold uppercase tracking-[2px] text-[#a76a83] sm:text-[11px] sm:tracking-[3px]">💗 Happy Girlfriend&apos;s Day</p>
+          <p className="text-[10px] font-semibold uppercase tracking-[2px] text-[#a76a83] sm:text-[11px] sm:tracking-[3px]">💗 Happy Pasandida Aurat&apos;s Day</p>
         </div>
         <h1 className="title heading-font mt-6 text-[48px] font-bold leading-[0.9] tracking-[-0.04em] text-[#28151f] sm:text-[72px]">hiiieee, my Pasandida Aurat <span className="text-pink-400">♡</span></h1>
         <p className="subtitle script-font mt-4 text-[27px] leading-[1.05] text-[#73616c] sm:mt-5 sm:text-[38px]">I made this so you&apos;ll always remember —<br />you are deeply loved.</p>

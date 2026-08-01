@@ -14,7 +14,7 @@ export default function LetterSection({ onNext }) {
             &#9825; a letter, just for you &#9825;
           </p>
           <h1 className="script-font mt-3 text-center text-[31px] leading-none text-[#84638d] sm:text-[35px]">
-            my love,
+            my Pasandida Aurat,
           </h1>
 
           <div className="my-5 flex items-center gap-2 text-[#b49ab8]">
